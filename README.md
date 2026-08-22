@@ -1,6 +1,9 @@
 # Hi there, I'm Muthuraj 👋
 
+**Founder of ShivaQuantum Labs**
+
 **Autonomous AI Systems & Security Infrastructure Architect | Open to Remote Roles**
+
 
 I specialize in designing, building, and deploying live enterprise AI infrastructure. I move Large Language Models out of experimental notebooks and into high-performance production environments by architecting asynchronous backend pipelines, managing secure vector data systems, and building robust, stateful agentic state machines. 
 
