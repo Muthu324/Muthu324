@@ -1,6 +1,6 @@
 # Hi there, I'm Muthuraj 👋
 
-**Founder of ShivaQuantum Labs**
+**Founder of ShivaQuantum Labs | Deep Tech Engineer**
 
 **Autonomous AI Systems & Security Infrastructure Architect | Open to Remote Roles**
 
