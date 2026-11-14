@@ -93,7 +93,7 @@ I'm interested in connecting with:
 - Developers interested in secure software engineering
 - People building practical solutions with AI and Python
 
-📧 **Email:** muthurajp064@gmail.com
+📧 **Email:** muthurajp09@gmail.com
 
 💼 **LinkedIn:** [linkedin.com/in/muthuai](https://linkedin.com/in/muthuai)
 
